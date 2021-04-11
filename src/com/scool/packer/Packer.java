@@ -2,7 +2,6 @@ package com.scool.packer;
 
 import com.scool.packer.commands.Admin;
 import com.scool.packer.commands.Packs;
-import com.scool.packer.events.InventoryEvents;
 import com.scool.packer.screens.PackScreen;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
