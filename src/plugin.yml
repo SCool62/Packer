@@ -1,0 +1,13 @@
+name: Packer
+version: 1.0
+author: scool
+main: com.scool.packer.Packer
+api-version: 1.14
+commands:
+  packs:
+    description: Allows you to select a pack.
+    usage: /<command>
+    aliases: [pack, packselect, selectpack, ps]
+  packer:
+    description: Allows admins to control the plugin. /packer reload reloads the config
+    usage: /<command> [reload]
